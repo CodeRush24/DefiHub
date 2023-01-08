@@ -1,7 +1,7 @@
 
 # DefiHub - A Decentralised Finance Frontend Website
 
-DefiHub is a basic Frontend website.
+Defi is a Frontend Website template of a Decentralised Finance
 ## Technology Used
 
  - ReactJS
