@@ -76,7 +76,7 @@ const Footer = () => {
             <div className='mt-5 border-b-0 border-l-0 border-r-0 border border-gray-400 pt-10 text-sm md:text-lg '>
                 Made By SUDARSHAN TRIFALEY
                 <div>
-                    <a href="https://github.com/Sudcsk24" target='_blank' className='w-fit text-sm mx-3 text-cyan-500 hover:text-blue-700 duration-100'>
+                    <a href="https://github.com/CodeRush24" target='_blank' className='w-fit text-sm mx-3 text-cyan-500 hover:text-blue-700 duration-100'>
                         Github
                     </a>
                     <a href="https://www.linkedin.com/in/sudarshan-trifaley-188b4023a/" target='_blank' className='w-fit text-sm mx-3 text-cyan-500 hover:text-blue-700 duration-100'>
