@@ -10,9 +10,9 @@ DefiHub is a Frontend Website template of a Decentralised Finance
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/110741425/211204863-3c701dd7-cb7c-4ef3-8f9c-ed2037c1355d.png)
+![App Screenshot](https://user-images.githubusercontent.com/110741425/212145022-bb9550ee-0100-4a6e-af17-7505bf706cb4.png)
 
-![App Screenshot](https://user-images.githubusercontent.com/110741425/211204781-ec3f4876-01d8-414e-a77a-63b922fbf0ce.png)
+![App Screenshot](https://user-images.githubusercontent.com/110741425/211204863-3c701dd7-cb7c-4ef3-8f9c-ed2037c1355d.png)
 
 
 ## Run Locally
