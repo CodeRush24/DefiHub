@@ -17,13 +17,6 @@ DefiHub is a Frontend Website template of a Decentralised Finance
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/MavericksCoder/DefiHub.git
-```
-
-
 ## Install dependencies
 install with npm
 
