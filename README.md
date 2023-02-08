@@ -20,7 +20,7 @@ DefiHub is a Frontend Website template of a Decentralised Finance
 Clone the project
 
 ```bash
-  git clone https://github.com/CodeRush24/DefiHub.git
+  git clone https://github.com/MavericksCoder/DefiHub.git
 ```
 
 
@@ -50,6 +50,6 @@ Start the server
 
 ## Authors
 
-- [@CodeRush24](https://github.com/CodeRush24)
+- [@MavericksCoder](https://github.com/MavericksCoder)
 
 
