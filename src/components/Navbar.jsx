@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className='w-full h-[80px] sticky top-0 z-30 bg-gradient-to-r from-gray-900 via-black to-gray-900'>
             <div className='max-w-[1240px] mx-auto px-4 flex justify-between items-center h-full'>
                 <div className='logo'>DefiHUB</div>
-                <div className='hidden md:block'>
+                <div className='hidden lg:block'>
                     <ul className='flex text-white items-center cursor-pointer'>
                         <li>
                             <Link to="hero" spy={true} smooth={true} offset={-100} duration={500} className='cursor-pointer'>Home</Link>
@@ -35,7 +35,7 @@ const Navbar = () => {
                         <button className='ml-2'>Start Trading</button>
                     </ul>
                 </div>
-                <div onClick={handleNavbar} className='block md:hidden cursor-pointer'>
+                <div onClick={handleNavbar} className='block lg:hidden cursor-pointer'>
                     {nav ? <AiOutlineClose size={25} className='text-cyan-500' /> : <AiOutlineMenu size={25} className='text-cyan-500' />}
                 </div>
                 <div className={nav ? 'w-full duration-700 bg-gradient-to-r from-gray-900 via-black to-gray-900 text-white absolute top-[80px] left-0 flex justify-center text-center' : 'absolute left-[-100%] top-[80px] flex justify-center text-center w-full bg-gradient-to-r from-gray-900 via-black to-gray-900 duration-1000'}>
